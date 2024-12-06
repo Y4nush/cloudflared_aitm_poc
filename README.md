@@ -2,7 +2,7 @@
 
 This repository contains a Proof of Concept (PoC) for an **Adversary-in-the-Middle (AiTM)** attack exploiting **Cloudflared replicas**. For a detailed explanation of the attack and its implications, read the full blog post:
 
-👉 [When Replicas Go Rogue - A Deep Dive into Cloudflared Exploitation Scenarios](https://y4nush.com/when-replicas-go-rogue-a-deep-dive-into-cloudflared-replicas-exploitation-scenarios/)
+👉 [When Replicas Go Rogue - A Deep Dive into Cloudflared Exploitation Scenarios](https://y4nush.com/posts/when-replicas-go-rogue-a-deep-dive-into-cloudflared-replicas-exploitation-scenarios/)
 
 ## Usage
 

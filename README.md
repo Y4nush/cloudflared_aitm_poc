@@ -34,5 +34,5 @@ python3 aitm/hijack.py poc <session number> # Sends a GET request with hijacked 
 ## Environment
 Tested on Ubuntu 22.04.5 LTS
 
-<img src="https://github.com/user-attachments/assets/abf5c575-d493-4820-b85b-45e8cb0162fc" alt="image" width="100"/>
+<img src="https://github.com/user-attachments/assets/abf5c575-d493-4820-b85b-45e8cb0162fc" alt="image" width="75"/>
 
